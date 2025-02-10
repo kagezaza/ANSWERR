@@ -54,20 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Awa nalang Julia?",
-    "please?? pretty please??? plsplsplsplspsls...",
-    " Ako nalng :(((",
-    " ka-cri nalang ako sa sulok",
-    "pang ilang no mo nayan?",
-    "awts...",
-    ":((",
     "hi, ako nato oh",
     "like ako nato oh debuh",
+    "please?? pretty please??? plsplsplsplspsls...",
+     "hays sige na wag kanang pabebe akona "
+    " Ako nalng :(((",
+    " ka-cri nalang ako sa sulok",
     "sabi konga, sino banaman ako diba??",
      "close monalng puro ka no e tsk tsk",
-    "hays sige na wag kanang pabebe akona "
+   
 ];
 
 let messageIndex = 0;
