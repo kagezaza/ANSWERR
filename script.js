@@ -57,7 +57,7 @@ const messages = [
     "hi, ako nato oh",
     "like ako nato oh debuh",
     "please?? pretty please??? plspl...",
-     "hays sige na wag kanang pabebe akona "
+     "hays sige na wag kanang pabebe akona ",
     " Ako nalng :(((",
     " ka-cri nalang ako sa sulok",
     "sabi konga, sino banaman ako diba??",
