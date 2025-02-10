@@ -62,6 +62,21 @@ const messages = [
     " ka-cri nalang ako sa sulok",
     "sabi konga, sino banaman ako diba??",
     "AKOOO NALANGGGGGGGG",
+    "NAKAKAILANG NO KANA",
+    "AWAT NA",
+    "GIVE IN",
+    "RAAAAAAAAAAH",
+    "ME NA TO AKO NAAAA",
+    "DAMING NO NAUUBOS NA LINES KO",
+    "WAG NA MAG NO",
+    "MAG YES KANA",
+    " Talo kaba saken??",
+    " joke di gaganon DI USO YONNNN",
+    "YES NAAAAA",
+    "ala na wala nako lines haysgdsv",
+    "/play Backburner",
+    "HAYSS LANA LOLOOP NAYUNG LINES",
+    "AWTS ayaw talaga",
      "close monalng puro ka no e tsk tsk"
    
 ];
